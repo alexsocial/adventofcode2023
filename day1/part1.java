@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
 import java.util.ArrayList;
 
-class part1 {
+class part1_1 {
     public static void main(String[] args){
         ArrayList<String> dat = new ArrayList<String>();
         dataToList(dat, "day1/data.txt");

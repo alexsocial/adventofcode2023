@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-class part2 {
+class part1_2 {
     public static void main(String[] args){
         ArrayList<String> dat = new ArrayList<String>();
-        dataToList(dat, "day1-trebuchet/data.txt");
+        dataToList(dat, "day1/data.txt");
         int dist = findDistance(dat);
         System.out.println(dist);
     }
