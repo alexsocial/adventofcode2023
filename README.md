@@ -3,5 +3,5 @@
 
 ### Languages of Each Solution
 
-Day 1: Java
-Day 2: Java
+Day 1: Java  
+Day 2: Java  
