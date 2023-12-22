@@ -6,3 +6,4 @@
 Day 1: Java  
 Day 2: Java  
 Day 4: Python  
+Day 6: Java  
